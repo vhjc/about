@@ -29,6 +29,6 @@ cout<<"hello world";
 ```
 
 请联系
-<a href="http://noi.top/profiles/2999/" target="_blank">我们</a>
+<a href="http://hack.chat/?vhjc" target="_blank">我们</a>
 
 ------------------------
