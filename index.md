@@ -7,9 +7,11 @@ victory:HTML CSS JS
 
 校内集训：[vhjc.github.io/xczx](vhjc.github.io/xczx)
 ![校内集训](http://lab.51ifind.com/education-lab-web/project/image/index/icon-default.png)
+
 赶快报名吧！🚫
 
 ### 优质代码，先到先得
+
 采用非if语句的代码
 
 *标准答案*
