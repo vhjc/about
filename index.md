@@ -28,6 +28,7 @@ cout<<"hello world";
 }
 ```
 
-请联系<a herf="noi.top">我们</a>
+请联系
+<a href="http://www.w3school.com.cn/" target="_blank">我们</a>
 
 ------------------------
