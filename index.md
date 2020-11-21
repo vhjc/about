@@ -5,7 +5,7 @@ victory:HTML CSS JS
 
 -->vhjc.github.io
 
-![校内集训](http://lab.51ifind.com/education-lab-web/project/image/index/icon-default.png)
+-------------------------
 
 赶快报名吧！🚫
 
