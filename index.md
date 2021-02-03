@@ -1,8 +1,9 @@
 ## vhjc.github.io 
 
-<font color=red">
-c++教程
-</font>
+
+<font color=red">c++教程</font>
+                
+                
 ```
 #include<bits/stdc++.h>
 using namespace std;
