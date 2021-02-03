@@ -1,7 +1,4 @@
-## vhjc.github.io 
-
-
-<font color="red">c++教程</font>
+## vhjc.github.io c++教程
                 
                 
 ```
