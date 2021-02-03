@@ -1,7 +1,7 @@
 ## vhjc.github.io 
 
 
-<font color=red>c++教程</font>
+<font color="red">c++教程</font>
                 
                 
 ```
